@@ -1,5 +1,7 @@
 # 🎨 Responsive Color Picker Footer (React)
 
+this is my first ever frontend learning project 
+
 A responsive and interactive color picker footer built using **React** and **CSS**.  
 Users can select colors to dynamically change the page background with smooth animations.
 

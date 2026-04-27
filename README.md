@@ -3,6 +3,8 @@
 A responsive and interactive color picker footer built using **React** and **CSS**.  
 Users can select colors to dynamically change the page background with smooth animations.
 
+Hey Dammn man doing something crazy broo!!!
+
 ## ✨ Features
 - Responsive footer (desktop & mobile)
 - Uniformly distributed color buttons
